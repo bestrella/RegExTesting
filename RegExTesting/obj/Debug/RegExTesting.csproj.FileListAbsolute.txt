@@ -1,0 +1,6 @@
+C:\Users\bestrella\Documents\Visual Studio 2015\Projects\sample\RegExTesting\RegExTesting\bin\Debug\RegExTesting.exe.config
+C:\Users\bestrella\Documents\Visual Studio 2015\Projects\sample\RegExTesting\RegExTesting\bin\Debug\RegExTesting.exe
+C:\Users\bestrella\Documents\Visual Studio 2015\Projects\sample\RegExTesting\RegExTesting\bin\Debug\RegExTesting.pdb
+C:\Users\bestrella\Documents\Visual Studio 2015\Projects\sample\RegExTesting\RegExTesting\obj\Debug\RegExTesting.exe
+C:\Users\bestrella\Documents\Visual Studio 2015\Projects\sample\RegExTesting\RegExTesting\obj\Debug\RegExTesting.pdb
+C:\Users\bestrella\Documents\Visual Studio 2015\Projects\sample\RegExTesting\RegExTesting\obj\Debug\RegExTesting.csprojResolveAssemblyReference.cache
